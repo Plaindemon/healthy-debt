@@ -1,0 +1,10 @@
+{
+  "name": "Healthy Debt",
+  "short_name": "debt",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "../index.html",
+  "description": "An app that allows you to track spending and income.",
+  "background_color": "#EAAA64",
+  "theme_color": "#ffffff"
+}
